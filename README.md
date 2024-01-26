@@ -1,5 +1,7 @@
 # C-iCalendar-file-parser
 
+* missing CalendarParser.c file is available upon request *
+
 The iCal File Parser is a robust C-based application designed to parse, manipulate, and generate .ics (iCalendar) files. It emphasizes not only functionality but also memory safety and efficiency, ensuring proper memory allocation, deallocation, and leak prevention using tools such as Valgrind. It effectively handles the complexities of the iCalendar format by providing a robust set of functionalities that include parsing iCalendar files into structured data, validating the integrity of the data against the iCalendar specification, and writing the structured data back into compliant .ics files.
 
 Modules
